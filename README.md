@@ -30,4 +30,7 @@ langkah langkah menjalankan aplikasi
  
  - dan untuk folder test_no_fw disimpan pada folder htdocs masing-masing (jika yang menggunakan XAMPP) / bisa pada folder var/www (jika menggunakan laragon atau webserver lainnya)
  - lalu jalankan project dengan cara di bawah ini:
-![serv with xampp](https://user-images.githubusercontent.com/59255271/150649330-627647d5-a202-4de6-833f-a117d8db617b.png)
+ ![serv with xampp](https://user-images.githubusercontent.com/59255271/150649330-627647d5-a202-4de6-833f-a117d8db617b.png)
+ 
+ NB: jangan lupa untuk menyalakan apache server dan MySQL pada web server yang terinstall pada pc masing-masing
+ 
